@@ -131,7 +131,7 @@
         </td>
         <td align="center" width="150" height="150">
             <a href="#stack">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" alt="grpc"
+                <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-plain.svg" alt="grpc"
                      width="60" height="60"/>
             </a>
             <br>grpc
