@@ -127,7 +127,7 @@
                 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg"
                      alt="apachekafka" width="60" height="60"/>
             </a>
-            <br>apachekafka
+            <br>kafka
         </td>
         <td align="center" width="150" height="150">
             <a href="#stack">
