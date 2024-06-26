@@ -43,10 +43,10 @@
         </td>
         <td align="center" width="150" height="150">
             <a href="#stack">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" alt="hadoop"
+                <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"
                      width="60" height="60"/>
             </a>
-            <br>hadoop
+            <br>docker
         </td>
     </tr>
     <tr>
@@ -87,10 +87,10 @@
         </td>
         <td align="center" width="150" height="150">
             <a href="#stack">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"
+                <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" alt="hadoop"
                      width="60" height="60"/>
             </a>
-            <br>docker
+            <br>hadoop
         </td>
     </tr>
     <tr>
