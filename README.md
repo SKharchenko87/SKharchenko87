@@ -51,11 +51,11 @@
     </tr>
     <tr>
         <td align="center" width="150" height="150">
-            <a href="#stack">
+<!--             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"
                      alt="pycharm" width="60" height="60"/>
             </a>
-            <br>pycharm
+            <br>pycharm -->
         </td>
         <td align="center" width="150" height="150">
             <a href="#stack">
@@ -65,18 +65,18 @@
             <br>goland
         </td>
         <td align="center" width="150" height="150">
-            <a href="#stack">
+<!--             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg"
                      alt="datagrip" width="60" height="60"/>
             </a>
-            <br>datagrip
+            <br>datagrip -->
         </td>
         <td align="center" width="150" height="150">
-            <a href="#stack">
+<!--             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg"
                      alt="dbeaver" width="60" height="60"/>
             </a>
-            <br>dbeaver
+            <br>dbeaver -->
         </td>
         <td align="center" width="150" height="150">
             <a href="#stack">
@@ -109,18 +109,18 @@
             <br>bash
         </td>
         <td align="center" width="150" height="150">
-            <a href="#stack">
+<!--             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"
                      alt="postman" width="60" height="60"/>
             </a>
-            <br>postman
+            <br>postman -->
         </td>
         <td align="center" width="150" height="150">
-            <a href="#stack">
+<!--             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis"
                      width="60" height="60"/>
             </a>
-            <br>redis
+            <br>redis -->
         </td>      
         <td align="center" width="150" height="150">
             <a href="#stack">
@@ -130,11 +130,11 @@
             <br>kafka
         </td>
         <td align="center" width="150" height="150">
-            <a href="#stack">
+<!--             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-plain.svg" alt="grpc"
                      width="60" height="60"/>
             </a>
-            <br>grpc
+            <br>grpc -->
         </td>
     </tr>
 </table>
