@@ -36,10 +36,10 @@
         </td>
         <td align="center" width="150" height="150">
             <a href="#stack">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle"
+                <img src="https://github.com/user-attachments/assets/0642b1ed-1640-450b-aa80-1b18b31b8593" alt="greenplum"
                      width="60" height="60"/>
             </a>
-            <br>oracle
+            <br>greenplum
         </td>
         <td align="center" width="150" height="150">
             <a href="#stack">
@@ -92,14 +92,12 @@
             </a>
             <br>hadoop
         </td>
-    </tr>
-    <tr>
         <td align="center" width="150" height="150">
             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"
                      alt="apachespark" width="60" height="60"/>
             </a>
-            <br>apachespark
+            <br>spark
         </td>
         <td align="center" width="150" height="150">
             <a href="#stack">
@@ -108,6 +106,25 @@
             </a>
             <br>bash
         </td>
+        <td align="center" width="150" height="150">
+            <a href="#stack">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle"
+                     width="60" height="60"/>
+            </a>
+            <br>oracle
+        </td>
+        <td align="center" width="150" height="150">
+            <a href="#stack">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg"
+                     alt="apachekafka" width="60" height="60"/>
+            </a>
+            <br>kafka
+        </td>
+<!--         ![Greenplum-Horizontal-OnLight(1)(1)](https://github.com/user-attachments/assets/0642b1ed-1640-450b-aa80-1b18b31b8593) -->
+<!--         ![image](https://github.com/user-attachments/assets/991b710b-a003-4f88-be49-5b34d84e6f38) -->
+<!--         ![image](https://github.com/user-attachments/assets/b807404d-118f-4a1a-b19e-bca249e38b76) -->
+    </tr>
+    <tr>
 <!--         <td align="center" width="150" height="150">
             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"
@@ -122,13 +139,6 @@
             </a>
             <br>redis
         </td>       -->
-        <td align="center" width="150" height="150">
-            <a href="#stack">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg"
-                     alt="apachekafka" width="60" height="60"/>
-            </a>
-            <br>kafka
-        </td>
 <!--         <td align="center" width="150" height="150">
             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-plain.svg" alt="grpc"
