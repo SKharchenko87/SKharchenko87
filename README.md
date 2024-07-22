@@ -50,34 +50,6 @@
         </td>
     </tr>
     <tr>
-<!--         <td align="center" width="150" height="150">
-            <a href="#stack">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"
-                     alt="pycharm" width="60" height="60"/>
-            </a>
-            <br>pycharm
-        </td> -->
-<!--         <td align="center" width="150" height="150">
-            <a href="#stack">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-original.svg" alt="goland"
-                     width="60" height="60"/>
-            </a>
-            <br>goland
-        </td> -->
-<!--         <td align="center" width="150" height="150">
-            <a href="#stack">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg"
-                     alt="datagrip" width="60" height="60"/>
-            </a>
-            <br>datagrip
-        </td> -->
-<!--         <td align="center" width="150" height="150">
-            <a href="#stack">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg"
-                     alt="dbeaver" width="60" height="60"/>
-            </a>
-            <br>dbeaver
-        </td> -->
         <td align="center" width="150" height="150">
             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60"
@@ -124,29 +96,57 @@
 <!--         ![image](https://github.com/user-attachments/assets/991b710b-a003-4f88-be49-5b34d84e6f38) -->
 <!--         ![image](https://github.com/user-attachments/assets/b807404d-118f-4a1a-b19e-bca249e38b76) -->
     </tr>
-    <tr>
-<!--         <td align="center" width="150" height="150">
+<!--     <tr>
+        <td align="center" width="150" height="150">
+            <a href="#stack">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"
+                     alt="pycharm" width="60" height="60"/>
+            </a>
+            <br>pycharm
+        </td>
+        <td align="center" width="150" height="150">
+            <a href="#stack">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-original.svg" alt="goland"
+                     width="60" height="60"/>
+            </a>
+            <br>goland
+        </td>
+        <td align="center" width="150" height="150">
+            <a href="#stack">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg"
+                     alt="datagrip" width="60" height="60"/>
+            </a>
+            <br>datagrip
+        </td>
+        <td align="center" width="150" height="150">
+            <a href="#stack">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg"
+                     alt="dbeaver" width="60" height="60"/>
+            </a>
+            <br>dbeaver
+        </td>
+        <td align="center" width="150" height="150">
             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"
                      alt="postman" width="60" height="60"/>
             </a>
             <br>postman
-        </td> -->
-<!--         <td align="center" width="150" height="150">
+        </td>
+        <td align="center" width="150" height="150">
             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis"
                      width="60" height="60"/>
             </a>
             <br>redis
-        </td>       -->
-<!--         <td align="center" width="150" height="150">
+        </td>      
+        <td align="center" width="150" height="150">
             <a href="#stack">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-plain.svg" alt="grpc"
                      width="60" height="60"/>
             </a>
             <br>grpc
-        </td> -->
-    </tr>
+        </td>
+    </tr> -->
 </table>
 
 <!--
